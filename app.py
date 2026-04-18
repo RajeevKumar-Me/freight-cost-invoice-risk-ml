@@ -49,6 +49,13 @@ st.sidebar.markdown("""
 - ⚙️ Faster finance operations
 """)
 
+st.sidebar.markdown("---")
+st.sidebar.markdown("### 👨‍💻 About Developer")
+st.sidebar.markdown("**Rajeev Kumar**  \n🚀 Data Scientist")
+
+st.sidebar.markdown("🔗 [LinkedIn](https://www.linkedin.com/in/rajeev-kumar-52817a27a/)")
+st.sidebar.markdown("💻 [GitHub](https://github.com/RajeevKumar-Me)")
+
 
 ## Freight cost prediction
 
