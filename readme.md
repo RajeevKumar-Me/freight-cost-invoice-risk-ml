@@ -134,13 +134,12 @@ The original dataset used for training is large and not included in this reposit
 
 ---
 
-## 📸 Project Demo
+## 📸 Project Demo of Vendor Invoice Intelligence
 
-
-
+## 📸 Freight cost
 ![Freight UI](images/Freight_cost.jpg)
 
-## 📸 Screenshot of Vendor Invoice Intelligence
+## 📸 Invoice Flagging
 ![Invoice UI](images/invoice_flagging.jpg)
 
 ---
