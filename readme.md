@@ -138,7 +138,7 @@ The original dataset used for training is large and not included in this reposit
 
 
 
-![Freight UI](images/Freight cost.jpg)
+![Freight UI](images/Freight_cost.jpg)
 
 ## 📸 Screenshot of Vendor Invoice Intelligence
 ![Invoice UI](images/invoice_flagging.jpg)
